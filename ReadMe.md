@@ -16,3 +16,8 @@ I'm on the second year of DAW.<br>I'm keen on many programming languages such as
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=JM10PRO&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+| Enlace a ejercicios | Repositorio DAW |
+| ----------- | ----------- |
+| Enlace 1 | Servidor Python 1 |
+| Paragraph | Text |
