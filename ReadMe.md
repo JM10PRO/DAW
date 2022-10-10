@@ -19,5 +19,5 @@ I'm on the second year of DAW.<br>I'm keen on many programming languages such as
 ---
 | Enlace a ejercicios | Repositorio DAW |
 | ----------- | ----------- |
-| [Enlace 1](JM10PRO/DAW/main/tema1/ejercicio1.html) | Servidor Python 1 |
+| [Enlace 1](JM10PRO/DAW/tree/ejercicio1.html) | Servidor Python 1 |
 | [Enlace 2](/tema1/ejercicio2.py) | Servidor Python 1 |
