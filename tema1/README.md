@@ -14,7 +14,7 @@ fi
 # EJERCICIO 2
 ### Crea un script que añada un nombre de dominio y una ip al fichero host. Debemos comprobar que no existe dicho dominio
 
-``` 
+``` bash
 #!/bin/bash
 grep -q -w "$1" /etc/hosts
 if [ $? -eq 0 ]
