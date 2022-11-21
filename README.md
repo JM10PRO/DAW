@@ -1,7 +1,7 @@
 # DAW Repository
 Este es un repositorio para las actividades de Despliegue de aplicaciones web.
 
-# Tema 0 - Introducción
+# [Tema 0 - Introducción](tema0/)
 ---
 | Enlace a ejercicios | Repositorio DAW |
 | ----------- | ----------- |
@@ -9,7 +9,7 @@ Este es un repositorio para las actividades de Despliegue de aplicaciones web.
 | [Server with Python 2](tema0/servidorpython2.py) | HTTP server |
 | [Server with Python 3](tema0/dummypythonserver.py) | Dummy web server |
 
-# [Tema 1 - Servidor web](https://github.com/JM10PRO/DAW/blob/main/tema1)
+# [Tema 1 - Servidor web](tema1/)
 ---
 | Enlace a ejercicios | Repositorio DAW |
 | ----------- | ----------- |
