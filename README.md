@@ -5,7 +5,7 @@ Este es un repositorio para las actividades de Despliegue de aplicaciones web.
 ---
 | Enlace a ejercicios | Repositorio DAW |
 | ----------- | ----------- |
-| [Server with Python 1](tema0/) | Simple web server |
+| [Server with Python 1](tema0/README.md) | Simple web server |
 | [Server with Python 2](tema0/servidorpython2.py) | HTTP server |
 | [Server with Python 3](tema0/dummypythonserver.py) | Dummy web server |
 
