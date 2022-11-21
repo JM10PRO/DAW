@@ -5,7 +5,7 @@ Este es un repositorio para las actividades de Despliegue de aplicaciones web.
 ---
 | Enlace a ejercicios | Repositorio DAW |
 | ----------- | ----------- |
-| [Enlace 1](https://github.com/JM10PRO/DAW/blob/main/tema1/ejercicio1.py) | Servidor Python 1 |
+| [Servidor Python 1](tema0/servidorpython2.py) | Simple web server |
 | [Enlace 2](/tema1/ejercicio2.py) | Servidor Python 2 |
 
 # [Tema 1 - Servidor web](https://github.com/JM10PRO/DAW/blob/main/tema1)
