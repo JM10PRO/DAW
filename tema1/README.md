@@ -11,7 +11,7 @@ else
 fi
 ```
 
-# Ejercicio 2
+# [Ejercicio 2](addDomain.sh)
 ### Crea un script que añada un nombre de dominio y una ip al fichero host. Debemos comprobar que no existe dicho dominio
 
 ``` bash
@@ -26,7 +26,7 @@ echo "Se ha añadido el dominio $1 con IP $2 satisfactoriamente"
 fi
 ```
 
-# Ejercicio 3
+# [Ejercicio 3](newHTML.sh)
 ### Crea un script que nos permita crear una página web con un título, una cabecera y un mensaje
 
 ``` bash
