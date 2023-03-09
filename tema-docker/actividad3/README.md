@@ -44,4 +44,10 @@ sudo docker rm myhello1
 ![contenedores-ejecutando](img/contenedores-ejecutando.png)
 
 ## 12. Borra todos los contenedores
+### Un comando muy útil para eliminar de golpe todos los contenedores primero hay que parar los que están ejetutándose, luego se eliminan:
+```bash
+sudo docker stop $(docker ps -a -q)
+sudo docker rm $(docker ps -a -q)
+```
+### O también podemos indicar todos los nombres de los contenedores parados que queremos eliminar
 ![eliminar-contenedores](img/eliminar-contenedores.png)
