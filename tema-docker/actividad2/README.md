@@ -16,7 +16,7 @@
 ![changing-dockerfile](img/changing-dockerfile.png)
 
 ### 2. Construye el contenedor
-![buid-container](img/buid-container.png)
+![build-container](img/buid-container.png)
 
 ### 3. Ejecútalo
 ![docker-run-getting-started](img/docker-run-getting-started.png)
